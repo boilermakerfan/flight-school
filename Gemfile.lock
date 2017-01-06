@@ -46,6 +46,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   rack-test (~> 0.6)
@@ -55,4 +56,4 @@ DEPENDENCIES
   webmock (~> 1.24)
 
 BUNDLED WITH
-   1.11.2
+   1.13.7
